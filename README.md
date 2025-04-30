@@ -2,7 +2,7 @@
 I am 17 years old<br>I'm studying information technology<br>I am looking for experience in programing <br>I like software development<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavo_2105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisgustavofe2105@gmail.com) 
 
 # 💻 Tech Stack:
